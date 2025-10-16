@@ -1,0 +1,7 @@
+streamlit==1.50.0
+requests
+feedparser
+vaderSentiment
+scikit-learn
+numpy
+googletrans==4.0.0-rc1
