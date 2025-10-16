@@ -4,7 +4,9 @@ feedparser
 vaderSentiment
 scikit-learn
 numpy
-googletrans==4.0.0-rc1
+git+https://github.com/ssut/py-googletrans.git
+
+
 
 
 
